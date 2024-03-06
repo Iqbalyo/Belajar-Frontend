@@ -1,0 +1,4 @@
+#Beikut Roadmap besarnya
+- Belajar Basic
+- Belajar DOM
+- Belajar Fecth API
