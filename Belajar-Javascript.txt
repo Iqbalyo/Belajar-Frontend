@@ -1,4 +1,8 @@
 #Beikut Roadmap besarnya
-- Belajar Basic
+- Belajar Basic :
+* Misal belajar Variable
+* Belajar tipe data
+* Belajar Let,Const,
+* Belajar Operator
 - Belajar DOM
 - Belajar Fecth API
