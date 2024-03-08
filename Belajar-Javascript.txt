@@ -4,6 +4,6 @@
 * Belajar tipe data
 * Belajar Let,Const,
 * Belajar Operator
-* Belajar EventListener
+* Belajar Event
 - Belajar DOM
 - Belajar Fecth API
